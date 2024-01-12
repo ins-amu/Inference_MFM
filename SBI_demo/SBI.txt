@@ -1,0 +1,1 @@
+Here are examples of SBI over deterministic and stochastic mean-field model of spiking QIF neurons.
