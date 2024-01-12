@@ -1,1 +1,5 @@
 
+Here are examples of HMC sampling from (deterministic and stochastic) mean-field model of spiking QIF neurons (https://arxiv.org/abs/1506.06581).
+
+For installation see: https://mc-stan.org/
+
