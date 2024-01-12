@@ -1,1 +1,3 @@
 Here is the Linear Stability Analysis (LSA) of the Montbrio model.
+
+Import the LSA functions from MPR_NMM_LSA.py in the Helper.
