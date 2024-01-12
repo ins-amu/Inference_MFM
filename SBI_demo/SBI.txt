@@ -1,1 +1,16 @@
 Here are examples of SBI over deterministic and stochastic mean-field model of spiking QIF neurons.
+
+For installtation see: https://github.com/sbi-dev/sbi
+
+The version used:  
+
+Numpy version: 1.24.4
+Numba version: 0.57.1
+Matplotlib` version: 3.7.1
+Pandas version: 2.0.2
+SciPy version: 1.10.1
+SBI version: 0.21.0
+
+The function to calculate the data features is located in Helper.
+
+
