@@ -1,6 +1,6 @@
 Here are examples of SBI over (deterministic and stochastic) mean-field model of spiking QIF neurons (https://arxiv.org/abs/1506.06581).
 
-For installtation see: https://github.com/sbi-dev/sbi
+For installation see: https://github.com/sbi-dev/sbi
 
 The version used:  
 
