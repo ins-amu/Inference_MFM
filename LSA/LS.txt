@@ -1,1 +1,0 @@
-Here is Linear Stability Analysis of the Montbrio model.
