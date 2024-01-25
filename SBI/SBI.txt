@@ -11,6 +11,6 @@ Pandas version: 2.0.2
 SciPy version: 1.10.1
 SBI version: 0.21.0
 
-The function to calculate the data features is located in Helper.
+The function to calculate the data features is "calculate_summary_statistics" in "MPR_NMM_sumstats.py".
 
 
