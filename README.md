@@ -20,7 +20,7 @@ To infer the dynamics from simulations, particularly to learn vector fields and 
 
 ```
 citation: 
-@article{Baldy2024,
+@article{Baldy2024InfMFM,
   title={Inference on the Macroscopic Dynamics of Spiking Neurons},
   author={Baldy, Nina and Breyton, Martin and Woodman, Marmaduke M and Jirsa, Viktor K and Hashemi, Meysam},
   journal={Neural Computation},
