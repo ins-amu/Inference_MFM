@@ -18,7 +18,7 @@ For fast point estimation, see the folder <em> Optimization</em>.
 
 To infer the dynamics from simulations, particularly to learn vector fields and nullclines (travesering across scales), see the folder <em> Neural ODEs</em>.
 
-
+```
 citation: 
 @article{Baldy2024,
   title={Inference on the Macroscopic Dynamics of Spiking Neurons},
@@ -35,7 +35,7 @@ citation:
   eprint = {https://direct.mit.edu/neco/article-pdf/doi/10.1162/neco\_a\_01701/2469857/neco\_a\_01701.pdf},
 }
 }
-
+```
 
 This research has received funding from EU’s Horizon 2020 Framework Programme for
 Research and Innovation under the Specific Grant Agreements No. 101147319 (EBRAINS
